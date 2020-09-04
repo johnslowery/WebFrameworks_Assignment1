@@ -1,0 +1,23 @@
+button{
+    background-color:rgb(47, 187, 173);
+    height:65px;
+    width:150px;
+    font-size: 19px;
+    float: left;
+}
+
+.donut{
+    float: left;
+}
+
+h1,h3{
+    color: rgb(47, 187, 173);
+}
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    margin-bottom: 75px;
+}
